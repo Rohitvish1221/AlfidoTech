@@ -140,10 +140,10 @@ html,body{
 }
 
 #content>img{
-    height: 80%;
+    height: 100%;
     position: absolute;
     z-index: 99;
-    left: 48%;
+    left: 49%;
     transform: translate(-50%,0);
 }
 
