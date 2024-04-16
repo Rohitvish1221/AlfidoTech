@@ -69,7 +69,7 @@ html,body{
     height: calc(100% - 140px);
     width: 100%;
     display: flex;
-    position: relative
+    position: relative;
     justify-content: space-between;
 }
 
